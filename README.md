@@ -1,5 +1,5 @@
 
- [Obrazek Python loga](#obrazek-python-loga)
+ [Obrazek Python loga](#obrazek-python-loga)     [F string](#F-string)
 # F string 
 F string se používá pro například napsání desetinného čísla, pro určení počtu desetinných míst, pro vypsání proměnné.
  př.: print(f" {} ")
